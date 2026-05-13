@@ -119,4 +119,4 @@ All portfolio projects use synthetic data only.
 
 ## Connect
 
-- LinkedIn: (add your LinkedIn URL later)
+- <a href="https://www.linkedin.com/in/henehan">Connect with me on LinkedIn</a>
